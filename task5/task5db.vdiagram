@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<Controls>
+		<Table1>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="2"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table1"/>
+				<position value="752;239"/>
+				<size value="148;150"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table1>
+		<Table2>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="9"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table2"/>
+				<position value="752;432"/>
+				<size value="167;70"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table2>
+		<Table3>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="3"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table3"/>
+				<position value="752;30"/>
+				<size value="166;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table3>
+		<Table4>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="7"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table4"/>
+				<position value="376;30"/>
+				<size value="166;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table4>
+		<Table5>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="6"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table5"/>
+				<position value="318;179"/>
+				<size value="166;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table5>
+		<Table6>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="8"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table6"/>
+				<position value="103;30"/>
+				<size value="166;90"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table6>
+		<Table7>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="5"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table7"/>
+				<position value="526;159"/>
+				<size value="166;150"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table7>
+		<Table8>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="1"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table8"/>
+				<position value="103;179"/>
+				<size value="166;130"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table8>
+		<Table9>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="4"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table9"/>
+				<position value="526;332"/>
+				<size value="166;170"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table9>
+		<akelon>
+			<Properties>
+				<^lock value="0"/>
+				<back_color value="FFFFFF"/>
+				<font value=""/>
+				<gamma value="0"/>
+				<name value="akelon"/>
+				<size value="1680;2376"/>
+				<style value="4"/>
+				<style_links value="0"/>
+				<units value="5"/>
+			</Properties>
+			<Type value="Diagram"/>
+		</akelon>
+	</Controls>
+	<GUI>
+		<FullToolbarLeft value="1"/>
+		<FullToolbarRight value="1"/>
+		<HiddenLinks value=""/>
+		<PageEditor value="-1"/>
+		<PageEditorH value="0"/>
+		<PageToolbarLeft value="0"/>
+		<PageToolbarRB value="0"/>
+		<PageToolbarRight value="0"/>
+		<ScrollX value="68"/>
+		<ScrollY value="0"/>
+		<Selection value="YWtlbG9u"/>
+		<ShowAll value="1"/>
+		<ShowChanges value="1"/>
+		<ShowGL value="1"/>
+		<ShowGrid value="1"/>
+		<UseGrid value="0"/>
+	</GUI>
+	<Model>
+		<untitled>
+			<Links>
+				<o0>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Employees"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Position_id"/>
+						<Name value="lnk_Positions_Employees"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Positions"/>
+						<Primary_Key value="Position_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Positions_Employees"/>
+				</o0>
+				<o1>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to ONE"/>
+						<Child_Table value="Projects"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Customer_id"/>
+						<Name value="lnk_Customers_Projects"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Customers"/>
+						<Primary_Key value="Customer_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Customers_Projects"/>
+				</o1>
+				<o2>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Stages"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Project_id"/>
+						<Name value="lnk_Projects_ProjectStages"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Projects"/>
+						<Primary_Key value="Project_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Projects_ProjectStages"/>
+				</o2>
+				<o3>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Grants"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Stage_id"/>
+						<Name value="lnk_Stages_Grants"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Stages"/>
+						<Primary_Key value="Stage_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Stages_Grants"/>
+				</o3>
+				<o4>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Grants"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Employee_id"/>
+						<Name value="lnk_Employees_Grants"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Employees"/>
+						<Primary_Key value="Employee_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Employees_Grants"/>
+				</o4>
+				<o5>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="ComletedStages"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Stage_id"/>
+						<Name value="lnk_Stages_ComletedTasks"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Stages"/>
+						<Primary_Key value="Stage_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Stages_ComletedTasks"/>
+				</o5>
+				<o6>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="WorkTime"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Grant_id"/>
+						<Name value="lnk_Grants_DailyTotals"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Grants"/>
+						<Primary_Key value="Grants_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Grants_DailyTotals"/>
+				</o6>
+				<o7>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="WorkTime"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Employee_id"/>
+						<Name value="lnk_Employees_DailyTotals"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Employees"/>
+						<Primary_Key value="Employee_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Employees_DailyTotals"/>
+				</o7>
+				<o8>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to ONE"/>
+						<Child_Table value="Employees"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Department_id"/>
+						<Name value="lnk_Departments_Employees_2"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Departments"/>
+						<Primary_Key value="Department_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Departments_Employees_2"/>
+				</o8>
+				<o9>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to ONE"/>
+						<Child_Table value="Departments"/>
+						<Comment value=""/>
+						<Deferred value="0"/>
+						<Foreign_Key value="Lead_id"/>
+						<Name value="lnk_Employees_Departments"/>
+						<On_Delete value=""/>
+						<On_Update value=""/>
+						<Parent_Table value="Employees"/>
+						<Primary_Key value="Employee_id"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="lnk_Employees_Departments"/>
+				</o9>
+			</Links>
+			<Tables>
+				<o0>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Position_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Position_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Employee_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Employee_id"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Department_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Department_id"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Position_id	Asc	BINARY"/>
+								<Name value="index_Positions_id"/>
+								<Query value=""/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="index_Positions_id"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="Employees"/>
+						<Primary_Key value="Employee_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Department_id	Asc	BINARY"/>
+								<Name value="unique_Departments_id"/>
+								<On_Conflict value="Fail"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="unique_Departments_id"/>
+						</o0>
+					</Uniques>
+					<control value="Table1"/>
+					<delete value="0"/>
+					<name value="Employees"/>
+				</o0>
+				<o1>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Position_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Position_id"/>
+						</o1>
+					</Fields>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="Positions"/>
+						<Primary_Key value="Position_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value="Table2"/>
+					<delete value="0"/>
+					<name value="Positions"/>
+				</o1>
+				<o2>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Department_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Department_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Lead_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Lead_id"/>
+						</o2>
+					</Fields>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="Departments"/>
+						<Primary_Key value="Department_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Lead_id	Asc	BINARY"/>
+								<Name value="unique_Employees_id"/>
+								<On_Conflict value="Fail"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="unique_Employees_id"/>
+						</o0>
+					</Uniques>
+					<control value="Table3"/>
+					<delete value="0"/>
+					<name value="Departments"/>
+				</o2>
+				<o3>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Customer_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Customer_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Project_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Project_id"/>
+						</o2>
+					</Fields>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="Projects"/>
+						<Primary_Key value="Project_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Customer_id	Asc	BINARY"/>
+								<Name value="unique_Customers_id"/>
+								<On_Conflict value="Fail"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="unique_Customers_id"/>
+						</o0>
+					</Uniques>
+					<control value="Table4"/>
+					<delete value="0"/>
+					<name value="Projects"/>
+				</o3>
+				<o4>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Project_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Project_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Stage_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Stage_id"/>
+						</o2>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Project_id	Asc	BINARY"/>
+								<Name value="index_Projects_id"/>
+								<Query value=""/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="index_Projects_id"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="Stages"/>
+						<Primary_Key value="Stage_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value="Table5"/>
+					<delete value="0"/>
+					<name value="Stages"/>
+				</o4>
+				<o5>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="isOuter"/>
+								<Nullable value="0"/>
+								<Type value="Boolean"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="isOuter"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Customer_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Customer_id"/>
+						</o2>
+					</Fields>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="Customers"/>
+						<Primary_Key value="Customer_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value="Table6"/>
+					<delete value="0"/>
+					<name value="Customers"/>
+				</o5>
+				<o6>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Stage_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Stage_id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Employee_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Employee_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Department_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Department_id"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Grants_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Grants_id"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Stage_id	Asc	BINARY"/>
+								<Name value="index_Stages_id"/>
+								<Query value=""/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="index_Stages_id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Employee_id	Asc	BINARY"/>
+								<Name value="index_Employees_id"/>
+								<Query value=""/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="index_Employees_id"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="Grants"/>
+						<Primary_Key value="Grants_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Department_id	Asc	BINARY"/>
+								<Name value="unique_Departments_id"/>
+								<On_Conflict value="Fail"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="unique_Departments_id"/>
+						</o0>
+					</Uniques>
+					<control value="Table7"/>
+					<delete value="0"/>
+					<name value="Grants"/>
+				</o6>
+				<o7>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Stage_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Stage_id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Hours"/>
+								<Nullable value="0"/>
+								<Type value="Numeric"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Hours"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Description"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Description"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Stage_id	Asc	BINARY"/>
+								<Name value="index_Stages_id1"/>
+								<Query value=""/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="index_Stages_id1"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="ComletedStages"/>
+						<Primary_Key value="Name"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<control value="Table8"/>
+					<delete value="0"/>
+					<name value="ComletedStages"/>
+				</o7>
+				<o8>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="WorkTime_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="1"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="WorkTime_id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Grant_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Grant_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Date"/>
+								<Nullable value="0"/>
+								<Type value="Date"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Date"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="1"/>
+								<Name value="Employee_id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Employee_id"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Hours"/>
+								<Nullable value="0"/>
+								<Type value="Numeric"/>
+								<Unique value="0"/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Hours"/>
+						</o4>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Grant_id	Asc	BINARY"/>
+								<Name value="index_Grants_id"/>
+								<Query value=""/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="index_Grants_id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Employee_id	Asc	BINARY"/>
+								<Name value="index_Employees_id1"/>
+								<Query value=""/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="index_Employees_id1"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="0"/>
+						<Index_Count value="0"/>
+						<Link_Count value="0"/>
+						<Method_Count value="0"/>
+						<Name value="WorkTime"/>
+						<Primary_Key value="WorkTime_id"/>
+						<Query value=""/>
+						<Record_Count value=""/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+						<color value=""/>
+						<font value=""/>
+					</Properties>
+					<Triggers>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Events value="INSERT"/>
+								<Fields value=""/>
+								<For_Each_Row value="1"/>
+								<Name value="Hours in 1 date less than 10"/>
+								<Table value=""/>
+								<Temporary value="0"/>
+								<Text value='CREATE TRIGGER "Hours in 1 date less than 10"
+	BEFORE INSERT
+	ON "WorkTime"
+	FOR EACH ROW
+BEGIN
+	SELECT 0;
+END;
+'/>
+								<Time value="BEFORE"/>
+								<When value=""/>
+								<color value=""/>
+								<font value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Hours in 1 date less than 10"/>
+						</o0>
+					</Triggers>
+					<control value="Table9"/>
+					<delete value="0"/>
+					<name value="WorkTime"/>
+				</o8>
+			</Tables>
+		</untitled>
+	</Model>
+	<Scene>
+		<HeightPX value="2376"/>
+		<MarginBottom value="0"/>
+		<MarginLeft value="0"/>
+		<MarginRight value="0"/>
+		<MarginTop value="0"/>
+		<PageHeight value="2376"/>
+		<PageWidth value="1680"/>
+		<PagesH value="1"/>
+		<PagesV value="1"/>
+		<WidthPX value="1680"/>
+	</Scene>
+	<version value="110403"/>
+</properties>
+
